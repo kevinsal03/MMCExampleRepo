@@ -1,0 +1,20 @@
+{
+    "mmc-template-system-version": 0,
+    "template_name": "NONE",
+    "template_author": "Kevinsal03",
+    "template_repository": "https://github.com/kevinsal03/MMCExampleRepo",
+    "template_version": 0,
+    "supported_version": "ALL",
+    "provided_files": [
+      {
+        "file_name": "none.txt",
+        "file_description": "A file to indicate that the none template worked properly",
+        "origin_path": "none.txt",
+        "output_path":"mmc/none.txt"
+      }
+    ],
+    "provided_plugin_packs": [],
+    "remote_plugin_jars": [],
+    "provided_world_packs": [],
+    "remote_world_packs": []
+  }
