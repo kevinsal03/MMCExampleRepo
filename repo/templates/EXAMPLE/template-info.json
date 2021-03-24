@@ -1,0 +1,26 @@
+{
+    "mmc-template-system-version": 0,
+    "template_name": "EXAMPLE",
+    "template_author": "Kevinsal03",
+    "template_repository": "https://github.com/kevinsal03/MMCExampleRepo",
+    "template_version": 0,
+    "supported_version": "ALL",
+    "provided_files": [
+      {
+        "file_name": "example.txt",
+        "file_description": "A file to indicate that the example template worked properly",
+        "origin_path": "example.txt",
+        "output_path":"mmc/example.txt"
+      }
+    ],
+    "provided_plugin_packs": [
+      {
+        "pack_name": "example.plpk",
+        "pack_description": "An example pack",
+        "origin_path": "example.plpk"
+      }
+    ],
+    "remote_plugin_jars": [],
+    "provided_world_packs": [],
+    "remote_world_packs": []
+  }

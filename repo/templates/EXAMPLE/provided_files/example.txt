@@ -1,0 +1,2 @@
+This server was generated from the "example" template.
+This template shows off all features of it.
